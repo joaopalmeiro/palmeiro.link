@@ -1,5 +1,7 @@
 # palmeiro.link
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9b93e168-b2c8-4c65-a6fd-c58643077f19/deploy-status)](https://app.netlify.com/sites/elaborate-gecko-bcdf85/deploys)
+
 My URL shortener.
 
 ## References

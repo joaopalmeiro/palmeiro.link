@@ -2,7 +2,7 @@
   "name": "palmeiro.link",
   "description": "My URL shortener.",
   "private": true,
-  "homepage": "https://palmeiro.link/",
+  "homepage": "https://palmeiro.link",
   "scripts": {
     "shorten": "netlify-shortener"
   },
