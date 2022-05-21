@@ -1,0 +1,20 @@
+{
+  "name": "palmeiro.link",
+  "description": "My URL shortener.",
+  "private": true,
+  "homepage": "https://palmeiro.link/",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaopalmeiro/palmeiro.link.git"
+  },
+  "author": "João Palmeiro",
+  "bugs": {
+    "url": "https://github.com/joaopalmeiro/palmeiro.link/issues"
+  },
+  "devDependencies": {
+    "netlify-shortener": "^2.4.0"
+  }
+}

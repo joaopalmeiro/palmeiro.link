@@ -12,3 +12,4 @@ My URL shortener.
 
 - `npm install --save-dev netlify-shortener`.
 - `npm run shorten <URL> <PATH>` (e.g., `npm run shorten https://github.com gh`).
+- [Syntax for the `_redirects` file](https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file).
