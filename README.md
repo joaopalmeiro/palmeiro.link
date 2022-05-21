@@ -10,4 +10,5 @@ My URL shortener.
 
 ## Notes
 
+- `npm install --save-dev netlify-shortener`.
 - `npm run shorten <URL> <PATH>` (e.g., `npm run shorten https://github.com gh`).
