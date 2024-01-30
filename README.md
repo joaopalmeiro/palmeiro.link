@@ -33,3 +33,5 @@ npm run format
 ```bash
 npm run shorten
 ```
+
+The previous command will format/validate the `_redirects` file, commit, and try to push. Don't push through the CLI but from GitHub Desktop.
