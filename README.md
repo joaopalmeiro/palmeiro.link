@@ -10,10 +10,26 @@ My URL shortener.
 - [netlify-shortener](https://github.com/kentcdodds/netlify-shortener) by Kent C. Dodds.
 - [netlify-shortener-example](https://github.com/kentcdodds/netlify-shortener-example) by Kent C. Dodds.
 
-## Notes
+## Development
 
-- `npm install --save-dev netlify-shortener`.
-- `npm run shorten <URL> <PATH>` (e.g., `npm run shorten https://github.com gh`).
-- [Syntax for the `_redirects` file](https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file).
-- [@helloample/netlify-plugin-redirects](https://www.npmjs.com/package/@helloample/netlify-plugin-redirects) plugin.
-- `https://palmeiro.link/`.
+Install [fnm](https://github.com/Schniz/fnm) (if necessary).
+
+```bash
+fnm install && fnm use && node --version
+```
+
+```bash
+npm install
+```
+
+```bash
+npm run lint
+```
+
+```bash
+npm run format
+```
+
+```bash
+npm run shorten <URL> <PATH>
+```
