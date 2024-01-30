@@ -31,5 +31,5 @@ npm run format
 ```
 
 ```bash
-npm run shorten <URL> <PATH>
+npm run shorten
 ```
