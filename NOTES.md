@@ -6,6 +6,7 @@
 - [@helloample/netlify-plugin-redirects](https://www.npmjs.com/package/@helloample/netlify-plugin-redirects) plugin
 - https://palmeiro.link/
 - https://github.com/keithamus/sort-package-json/releases/tag/v2.7.0
+- https://github.com/netlify/build/tree/main/packages/redirect-parser
 
 ## Commands
 
