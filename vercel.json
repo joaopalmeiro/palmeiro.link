@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "redirects": [
+    {
+      "source": "/biy",
+      "destination": "https://research.feedzai.com/publication/benchmark-it-yourself-biy-preparing-a-dataset-and-benchmarking-ai-models-for-scatterplot-related-tasks/"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "https://research.feedzai.com/publication/benchmark-it-yourself-biy-preparing-a-dataset-and-benchmarking-ai-models-for-scatterplot-related-tasks/"
+    }
+  ]
+}

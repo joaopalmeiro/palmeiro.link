@@ -9,10 +9,10 @@
   "scripts": {
     "format": "sort-package-json",
     "lint": "sort-package-json --check",
-    "shorten": "netlify-shortener"
+    "deploy": "vercel --prod"
   },
   "devDependencies": {
-    "netlify-shortener": "2.4.0",
+    "vercel": "48.5.0",
     "sort-package-json": "3.4.0"
   }
 }
