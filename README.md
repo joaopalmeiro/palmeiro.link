@@ -23,5 +23,9 @@ npm run format
 ```
 
 ```bash
+npm run login
+```
+
+```bash
 npm run deploy
 ```
